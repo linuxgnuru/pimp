@@ -1,9 +1,10 @@
                    ------------------------------
-                   GNU Image Manipulation Program
-                      2.99 Development Branch
+                   Pinephone Image Manipulation Program (fork of GIMP)
+                      version 0.0.1
                    ------------------------------
 
-This is an unstable development release, an intermediate state on the
+This is an attempt to port GIMP to run on a pinephone.  
+This is based on an unstable development release, an intermediate state on the
 way to the next stable release: GIMP 3. GIMP 2.99 may or may not do what
 you expect. Save your work early and often. If you want a stable
 version, please use GIMP 2.10 instead.
